@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FGallery</string>
+    <string name="no_results">No results found</string>
+    <string name="no_more_results">No more results found</string>
+    <string name="no_network">No network connection</string>
+
+    <string name="flickr_error">Flickr responded with an error</string>
+    <string name="flickr_error_malformed">Malformed URL - can\'t connect to Flickr</string>
+    <string name="flickr_error_io">IO error</string>
+    <string name="flickr_error_parser">Response parser error</string>
+    <string name="flickr_error_sax">Response parser error (SAX)</string>
+</resources>
