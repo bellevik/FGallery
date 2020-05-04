@@ -1,5 +1,7 @@
 # FGallery
 
+![](images/FGallery.gif)
+
 ## Install and run
 1. Clone this repo
 2. Add a resource file with your Flickr API key here `app/src/main/res/values/flickr.xml`:
